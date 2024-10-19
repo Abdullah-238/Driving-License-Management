@@ -1,0 +1,12 @@
+D:\C_Sharp\DVLD2_DataAccess\bin\Debug\DVLD2_DataAccess.dll
+D:\C_Sharp\DVLD2_DataAccess\bin\Debug\DVLD2_DataAccess.pdb
+D:\C_Sharp\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.csproj.AssemblyReference.cache
+D:\C_Sharp\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.csproj.CoreCompileInputs.cache
+D:\C_Sharp\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.dll
+D:\C_Sharp\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.pdb
+D:\C_Sharp\DVLD_2\DVLD2_DataAccess\bin\Debug\DVLD2_DataAccess.dll
+D:\C_Sharp\DVLD_2\DVLD2_DataAccess\bin\Debug\DVLD2_DataAccess.pdb
+D:\C_Sharp\DVLD_2\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.csproj.AssemblyReference.cache
+D:\C_Sharp\DVLD_2\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.csproj.CoreCompileInputs.cache
+D:\C_Sharp\DVLD_2\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.dll
+D:\C_Sharp\DVLD_2\DVLD2_DataAccess\obj\Debug\DVLD2_DataAccess.pdb
